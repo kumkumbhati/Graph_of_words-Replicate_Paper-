@@ -1,0 +1,7 @@
+Claims,Comparison,mean_difference,p_value,Significant (p < 0.05)?
+validation,TW-IDF vs BM25,-0.1773,7.3e-11,yes
+validation,TW-IDF-log vs BM25,-0.0235,0.017,yes
+validation,TW-IDF-log vs TW-IDF,0.1538,5.2e-09,yes
+train,TW-IDF vs BM25,-0.164,1.4e-26,yes
+train,TW-IDF-log vs BM25,-0.0093,0.12,no
+train,TW-IDF-log vs TW-IDF,0.1546,1.4e-23,yes

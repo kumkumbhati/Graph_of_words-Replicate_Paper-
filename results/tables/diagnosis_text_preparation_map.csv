@@ -1,0 +1,4 @@
+Text preparation (MAP shown),TF-IDF,BM25,TW-IDF
+"A: our stopwords, no stemming",0.7601,0.7704,0.5999
+"B: full stopwords, no stemming",0.7638,0.7707,0.603
+C: full stopwords + stemming (paper),0.7822,0.7809,0.6036
