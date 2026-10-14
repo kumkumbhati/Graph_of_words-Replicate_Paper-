@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local data copies (re-created automatically by notebook 05)
+data/*.jsonl
+data/*.npy
+
+# Old exploratory work kept locally
+archive/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

@@ -1,0 +1,21 @@
+# Core
+numpy>=1.24
+pandas>=2.0
+scipy>=1.10
+
+# Text processing
+nltk>=3.8
+
+# Data download (only needed the first time; afterwards data/ is used)
+datasets>=2.14
+
+# Dense retrieval (notebook 07)
+torch>=2.0
+sentence-transformers>=2.2
+
+# Notebooks and plots
+jupyter
+matplotlib>=3.7
+
+# Tests
+pytest>=7.0
